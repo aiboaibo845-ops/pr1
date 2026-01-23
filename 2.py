@@ -1,3 +1,3 @@
-print ('hello worldh')
-print(1+11)
-print('aibar')
+a=int(input())
+b=int(input())
+print(a+b)
